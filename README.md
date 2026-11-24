@@ -6,7 +6,7 @@ Data Analyst (BI & AI Automation) in Abu Dhabi. I turn messy business data into 
 - **Power BI dashboards** for a 3-branch documentation firm with 1,000+ active corporate clients. Reporting is now 40% more efficient.
 - **AI automation with Python and Claude.** Attestation letters went from ~15 minutes to ~3 minutes each.
 - **Expiry Desk**, a document-renewal tracker I built with Claude Code. 20 staff use it, for 120+ corporate clients.
-- **Office Workflow System**, built with Claude Code. It follows each visa application and company document from front desk to labour to immigration. In daily use by 8 staff across 2 client companies, and saves an estimated 30% of the time spent finding files.
+- **Office Workflow System**, built with Claude Code. It follows each visa application and company document from front desk to labour to immigration. In daily use on 15 office computers across 34 client companies, and saves an estimated 30% of the time spent finding files.
 
 ### Projects
 | Project | What it shows | Tools |
